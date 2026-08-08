@@ -1,14 +1,10 @@
-<p align="center">
-  <img src="./assets/header.svg" alt="Ahmad Hidayatullah Header" width="100%" />
-</p>
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=40&lines=Hi+there!+%F0%9F%90%8B+Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&height=60&lines=Ahmad+Hidayatullah;Fullstack+%26+Mobile+Developer;Building+Web+%26+Android+Apps" alt="Typing SVG" />
 </h1>
 
 <p align="center">
   <a href="https://github.com/Medskiyyy">
-    <img src="https://hits.sh/github.com/Medskiyyy.svg?style=for-the-badge&color=36bcf7&label=PROFILE+VIEWS" alt="Profile Views" />
+    <img src="https://hits.sh/github.com/Medskiyyy.svg?style=for-the-badge&color=38bdf8&label=PROFILE+VIEWS" alt="Profile Views" />
   </a>
 </p>
 
@@ -114,11 +110,7 @@ object Medskiyyy {
   </a>
 </p>
 
-<br />
-
-<p align="center">
-  <img src="./assets/footer.svg" alt="Footer Line" width="100%" />
-</p>
+---
 
 <p align="center">
   <sub><i>Designed with ❤️ for Medskiyyy</i></sub>
