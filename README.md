@@ -16,6 +16,7 @@
 object Medskiyyy {
     val name = "Ahmad Hidayatullah"
     val role = "Fullstack & Mobile Developer"
+    val email = "hidayatahmadd1377@gmail.com"
     val location = "Indonesia"
     val status = "Working from home 🏠"
     val currentFocus = listOf("Building modern Web apps", "Developing native Android apps with Kotlin")
@@ -28,12 +29,10 @@ object Medskiyyy {
 
 ---
 
-### 🏆 GitHub Trophy Hall
+### 📈 Activity & Contribution Graph
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Medskiyyy&theme=onedark&column=7&margin-w=15&margin-h=15" alt="Medskiyyy GitHub Trophies" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Medskiyyy&theme=dracula" alt="Medskiyyy Activity Graph" width="100%" />
 </p>
 
 ---
@@ -70,12 +69,12 @@ object Medskiyyy {
 ### 📊 Dynamic GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Medskiyyy&show_icons=true&theme=dracula&rank_icon=github&include_all_commits=true" alt="Medskiyyy's GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Medskiyyy&show_icons=true&theme=dracula&rank_icon=github&include_all_commits=true" alt="Medskiyyy's GitHub Stats" width="49%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Medskiyyy&theme=dracula" alt="Medskiyyy's GitHub Streak" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Medskiyyy&layout=compact&theme=dracula&hide=html" alt="Most Used Languages" width="60%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Medskiyyy&layout=compact&theme=dracula&hide=html" alt="Most Used Languages" width="60%" />
 </p>
 
 ---
@@ -103,6 +102,9 @@ object Medskiyyy {
 ### 📫 Connect With Me
 
 <p align="left">
+  <a href="mailto:hidayatahmadd1377@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
   <a href="https://github.com/Medskiyyy">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
