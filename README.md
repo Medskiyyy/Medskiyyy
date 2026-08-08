@@ -1,16 +1,113 @@
-## Hi there 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=50&lines=Hi+there!+%F0%9F%90%8B+I'm+Ahmad+Hidayatullah;Fullstack+Developer;Mobile+Developer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+</h1>
 
-<!--
-**Medskiyyy/Medskiyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/Medskiyyy">
+    <img src="https://komarev.com/ghpvc/?username=Medskiyyy&color=36bcf7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎮 About Me
+
+```kotlin
+object Medskiyyy {
+    val name = "Ahmad Hidayatullah"
+    val role = "Fullstack & Mobile Developer"
+    val location = "Indonesia"
+    val status = "Working from home 🏠"
+    val currentFocus = listOf("Building modern Web apps", "Developing native Android apps with Kotlin")
+}
+```
+
+- 🔭 **Working on**: Web & Android Mobile Development
+- 💬 **Ask me about**: **TypeScript, React, Next.js, Kotlin, and Android Development**
+- ⚡ **Fun Fact**: Passionate about crafting slick user interfaces and clean application logic.
+
+---
+
+### 🏆 GitHub Trophy Hall
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Medskiyyy&theme=onedark&column=7&margin-w=15&margin-h=15" alt="Medskiyyy GitHub Trophies" />
+  </a>
+</p>
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+#### 🌐 Web Development
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+</p>
+
+#### 📱 Mobile Development
+<p>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
+</p>
+
+#### 🧰 Tools & Version Control
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+</p>
+
+---
+
+### 📊 Dynamic GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Medskiyyy&show_icons=true&theme=dracula&rank_icon=github&include_all_commits=true" alt="Medskiyyy's GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Medskiyyy&theme=dracula" alt="Medskiyyy's GitHub Streak" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Medskiyyy&layout=compact&theme=dracula&hide=html" alt="Most Used Languages" width="60%" />
+</p>
+
+---
+
+### 🐍 Contribution Eating Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Medskiyyy/Medskiyyy/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+### 🚀 Featured Repositories
+
+| Repository | Tech Stack | Description |
+| :--- | :---: | :--- |
+| 🍜 [Website-Pempek](https://github.com/Medskiyyy/Website-Pempek) | `TypeScript` | Project aplikasi web interaktif Pempek |
+| 💰 [HitungUang](https://github.com/Medskiyyy/HitungUang) | `Kotlin` | Aplikasi mobile pengelolaan & perhitungan keuangan |
+| 💼 [Website-Portofolio](https://github.com/Medskiyyy/Website-Portofolio) | `TypeScript` | Website portofolio personal & showcase karya |
+| ⚡ [SyncLancer](https://github.com/Medskiyyy/SyncLancer) | `TypeScript` | Platform Web manajemen tugas & kolaborasi freelance |
+| 📱 [Mother](https://github.com/Medskiyyy/Mother) | `Kotlin` | Aplikasi Android Native |
+
+---
+
+### 📫 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/Medskiyyy">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  <sub><i>Designed with ❤️ for Medskiyyy</i></sub>
+</p>
