@@ -1,10 +1,14 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=10b981&height=200&section=header&text=Ahmad%20Hidayatullah&fontSize=38&fontColor=ffffff&animation=twinkling&desc=Fullstack%20%26%20Mobile%20Developer&descSize=18&descAlignY=65" alt="Header Banner" width="100%" />
+</p>
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&height=60&lines=Ahmad+Hidayatullah;Fullstack+%26+Mobile+Developer;Building+Web+%26+Android+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=600&height=40&lines=Hi+there!+%F0%9F%90%8B+Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </h1>
 
 <p align="center">
   <a href="https://github.com/Medskiyyy">
-    <img src="https://hits.sh/github.com/Medskiyyy.svg?style=for-the-badge&color=38bdf8&label=PROFILE+VIEWS" alt="Profile Views" />
+    <img src="https://hits.sh/github.com/Medskiyyy.svg?style=for-the-badge&color=10b981&label=PROFILE+VIEWS" alt="Profile Views" />
   </a>
 </p>
 
@@ -110,7 +114,11 @@ object Medskiyyy {
   </a>
 </p>
 
----
+<br />
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=10b981&height=120&section=footer" alt="Footer Banner" width="100%" />
+</p>
 
 <p align="center">
   <sub><i>Designed with ❤️ for Medskiyyy</i></sub>
