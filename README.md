@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0,2,3,5,6&height=220&section=header&text=Ahmad%20Hidayatullah&fontSize=42&fontColor=ffffff&animation=twinkling&desc=Fullstack%20%26%20Mobile%20Developer&descSize=20&descAlignY=65" alt="Header Banner" width="100%" />
+  <img src="./assets/header.svg" alt="Ahmad Hidayatullah Header" width="100%" />
 </p>
 
 <h1 align="center">
@@ -117,7 +117,7 @@ object Medskiyyy {
 <br />
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0,2,3,5,6&height=120&section=footer" alt="Footer Banner" width="100%" />
+  <img src="./assets/footer.svg" alt="Footer Line" width="100%" />
 </p>
 
 <p align="center">

@@ -1,0 +1,50 @@
+<svg fill="none" width="800" height="220" viewBox="0 0 800 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="50%" stop-color="#161b22"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="50%" stop-color="#818cf8"/>
+      <stop offset="100%" stop-color="#c084fc"/>
+    </linearGradient>
+    <linearGradient id="card-border" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#c084fc" stop-opacity="0.2"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background Outer Card -->
+  <rect x="2" y="2" width="796" height="216" rx="16" fill="url(#bg)" stroke="url(#card-border)" stroke-width="2"/>
+  
+  <!-- Subtle Grid Accent Overlay -->
+  <g stroke="#ffffff" stroke-opacity="0.03" stroke-width="1">
+    <line x1="0" y1="40" x2="800" y2="40"/>
+    <line x1="0" y1="80" x2="800" y2="80"/>
+    <line x1="0" y1="120" x2="800" y2="120"/>
+    <line x1="0" y1="160" x2="800" y2="160"/>
+    <line x1="160" y1="0" x2="160" y2="220"/>
+    <line x1="320" y1="0" x2="320" y2="220"/>
+    <line x1="480" y1="0" x2="480" y2="220"/>
+    <line x1="640" y1="0" x2="640" y2="220"/>
+  </g>
+
+  <!-- Top Decorative Line -->
+  <rect x="30" y="25" width="740" height="2" rx="1" fill="url(#glow)" opacity="0.8"/>
+
+  <!-- Main Title -->
+  <text x="400" y="85" text-anchor="middle" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-weight="800" font-size="34" fill="url(#glow)">Ahmad Hidayatullah</text>
+
+  <!-- Subtitle -->
+  <text x="400" y="125" text-anchor="middle" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-weight="500" font-size="18" fill="#e2e8f0">⚡ Fullstack &amp; Mobile Developer 📱</text>
+
+  <!-- Tech Badges Text -->
+  <text x="400" y="165" text-anchor="middle" font-family="'Fira Code', Consolas, monospace" font-weight="400" font-size="14" fill="#38bdf8">&lt; TypeScript • React • Next.js • Kotlin • Android /&gt;</text>
+
+  <!-- Bottom Accent Dots -->
+  <circle cx="370" cy="190" r="3" fill="#38bdf8"/>
+  <circle cx="400" cy="190" r="4" fill="#818cf8"/>
+  <circle cx="430" cy="190" r="3" fill="#c084fc"/>
+</svg>
