@@ -73,8 +73,12 @@ object Medskiyyy {
 ### 📊 Dynamic GitHub Stats
 
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Medskiyyy&theme=dracula" alt="Medskiyyy Profile Details" width="100%" />
+</p>
+
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Medskiyyy&theme=dracula" alt="Medskiyyy's GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=Medskiyyy&theme=dracula" alt="Medskiyyy's GitHub Streak" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Medskiyyy&theme=dracula" alt="Medskiyyy Productive Time" width="49%" />
 </p>
 
 <p align="center">
