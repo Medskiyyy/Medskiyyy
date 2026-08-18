@@ -73,12 +73,13 @@ object Medskiyyy {
 ### 📊 Dynamic GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Medskiyyy&show_icons=true&theme=dracula&rank_icon=github&include_all_commits=true" alt="Medskiyyy's GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Medskiyyy&theme=dracula" alt="Medskiyyy's GitHub Streak" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Medskiyyy&theme=dracula" alt="Medskiyyy's GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=Medskiyyy&theme=dracula" alt="Medskiyyy's GitHub Streak" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Medskiyyy&layout=compact&theme=dracula&hide=html" alt="Most Used Languages" width="60%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Medskiyyy&theme=dracula" alt="Top Languages by Repo" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Medskiyyy&theme=dracula" alt="Most Commit Language" width="49%" />
 </p>
 
 ---
