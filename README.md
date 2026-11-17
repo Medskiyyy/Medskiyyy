@@ -1,8 +1,12 @@
-## Ahmad Hidayatullah
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg" />
+  <img alt="Ahmad Hidayatullah, Full-stack web and native Android developer" src="./assets/header-light.svg" width="100%" />
+</picture>
 
-Information Systems student at Universitas Gunadarma (Bekasi, Indonesia) building full-stack web applications with **Next.js** and **TypeScript**, and native Android apps with **Kotlin** and **Jetpack Compose**.
+<br />
 
-Open to part-time internships and freelance projects.
+Information Systems student at Universitas Gunadarma (Bekasi, Indonesia). Open to part-time internships and freelance projects.
 
 [ahmadhidayatullah.my.id](https://ahmadhidayatullah.my.id) · [Resume (PDF)](https://ahmadhidayatullah.my.id/resume.pdf) · [hidayatahmadd1377@gmail.com](mailto:hidayatahmadd1377@gmail.com)
 
